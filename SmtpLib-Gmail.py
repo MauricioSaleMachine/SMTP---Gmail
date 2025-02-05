@@ -33,9 +33,9 @@ def enviar_email_teste(remetente, senha_aplicativo, destinatario, servidor_smtp,
         print(f"Erro ao enviar e-mail: {e}")
 
 # Credenciais que vamos usar para enviar os e-mails
-remetente = "gooldmaster38@gmail.com"
-senha_aplicativo = "xutv qgkn nuwt uyzl"  # Senha de aplicativo
-destinatario = "mau691479@gmail.com"
+remetente = "your e-mail"
+senha_aplicativo = "your app password"  # Senha de aplicativo
+destinatario = "another e-mail"
 servidor_smtp = "smtp.gmail.com"
 porta = 587
 
